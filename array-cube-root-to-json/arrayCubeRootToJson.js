@@ -47,7 +47,7 @@ const arrayCubeRootToJson = arr => {
     return (results)
 };
 
-//only sorting of the output object is pending, will do it later today after session
+//only sorting of the output object is pending, will do it later after today's session
 
 console.log(   arrayCubeRootToJson([27, 64, 125])   );
 console.log(   arrayCubeRootToJson(['27', '64', '125', 1])   );
